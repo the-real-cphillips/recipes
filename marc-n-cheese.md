@@ -33,8 +33,8 @@ Serves 6-8
 1. Add the cooked macaroni and stir well.
 1. Pour into a 3-quart baking dish.
 
-### MATOS OPSHUNAL
-1. If using tomatoes, slice the tomatoes and arrange on top.
+### The Big Finish...
+1. If using tomatoes, slice the tomatoes and arrange on top. (PROTIP: DONT USE TOMATOES)
 1. Melt the remaining 2 tablespoons of butter, combine them with the fresh bread crumbs, and sprinkle on top.
 1. Bake for 30 to 35 minutes, or until the sauce is bubbly and the macaroni is browned on the top.
 
