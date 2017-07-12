@@ -1,2 +1,1 @@
-# recipes
-rando-recipes
+# Collection of Recipes..
