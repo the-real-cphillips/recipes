@@ -15,7 +15,6 @@ Serves 6-8
 * ½ teaspoon nutmeg
 * ¼ pound fresh tomatoes (4 small) (OPTIONAL)
 * 1½ cups fresh white bread crumbs (5slices, crusts removed)
-----
 
 ## DO THE THING
 
@@ -24,7 +23,6 @@ Serves 6-8
 1. Drizzle oil into large pot of boiling salted water.  
 1. Add the macaroni and cook according to the directions on the package. 6 to 8 minutes. 
 1. Drain well.
-----
 
 ### Saucin'
 1. Meanwhile, heat the milk in a small saucepan, but don't boil it.
@@ -34,7 +32,6 @@ Serves 6-8
 1. Off the heat, add teh Gruyere, Cheddar, 1 tablespoon salt, pepper, and nutmeg
 1. Add the cooked macaroni and stir well.
 1. Pour into a 3-quart baking dish.
-----
 
 ### MATOS OPSHUNAL
 1. If using tomatoes, slice the tomatoes and arrange on top.
@@ -42,7 +39,6 @@ Serves 6-8
 1. Bake for 30 to 35 minutes, or until the sauce is bubbly and the macaroni is browned on the top.
 
 ## NOTES
-----
 
 Can be made 1-2 days ahead without topping and stored, covered tightly with plastic wrap, in the refrigerator.
 Remove from refrigerator and allow it to come to room temperatures (an hour or so) before baking
