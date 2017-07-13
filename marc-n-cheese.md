@@ -15,6 +15,7 @@ Serves 6-8
 * ½ teaspoon nutmeg
 * ¼ pound fresh tomatoes (4 small) (OPTIONAL)
 * 1½ cups fresh white bread crumbs (5slices, crusts removed)
+  * Can substitue seasoned Italian style breadcrumbs
 
 ## DO THE THING
 
