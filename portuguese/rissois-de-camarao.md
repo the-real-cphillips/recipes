@@ -5,6 +5,7 @@ Commonly used as an appetizer, they are delicious.
 
 ## Core Ingredients
 * 1 lb bag of shrimp (PROTIP: use either 21-25 or 31-35)
+  * Cut shrimp into small bits, not diced, but like chunks
 * 1 tablespoon butter or margarine
 * 1 cup flour 
 * 1 cup water
