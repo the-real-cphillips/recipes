@@ -1,6 +1,6 @@
 # Rissois De Camarao
-A Portuguese fried shrimp empanada sorta thing...
-a staple in the culture.
+A Portuguese fried shrimp turnover kinda thing.
+Commonly used as an appetizer, they are delicious.
 
 
 ## Core Ingredients
