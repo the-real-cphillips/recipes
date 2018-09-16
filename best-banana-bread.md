@@ -12,8 +12,9 @@ Notes:
 - `1½` cups of flour
 - `1` teaspoon of baking soda
 - `½` teaspoon of salt
-- `½` teaspoon of vanilla ( **OPTIONAL** )
-- `1` cup of chocolate chips (preferred Nestle Mini Morsels ![mini-morsels](https://i.imgur.com/4QhWlRg.png)) ( **OPTIONAL** ) 
+- `½` teaspoon of vanilla  **OPTIONAL** 
+- `1` cup of chocolate chips   **OPTIONAL** 
+  - preferred Nestle Mini Morsels ![mini-morsels](https://i.imgur.com/4QhWlRg.png))
 
 ## GIT R DUN
 - Preheat oven to `350º`
