@@ -13,6 +13,7 @@ Notes:
 - `1` teaspoon of baking soda
 - `½` teaspoon of salt
 - `½` teaspoon of vanilla ( **OPTIONAL** )
+- `1` cup of chocolate chips (preferred Nestle Mini Morsels ![mini-morsels](https://i.imgur.com/4QhWlRg.png)) ( **OPTIONAL** ) 
 
 ## GIT R DUN
 - Preheat oven to `350º`
@@ -22,6 +23,7 @@ Notes:
 - Sift together flour, baking soda and salt
   - Add to creamed mixture
   - **OPTIONAL** Add vanilla
+  - **OPTIONAL** Add chocolate chips
 - Mix just until combined
   - **DO NOT OVERMIX!**
 - Pour into greased and floured loaf pan.
