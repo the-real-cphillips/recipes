@@ -12,7 +12,7 @@ Notes:
 - `1½` cups of flour
 - `1` teaspoon of baking soda
 - `½` teaspoon of salt
-- `½` teaspoon of vanilla ( *OPTIONAL* )
+- `½` teaspoon of vanilla ( **OPTIONAL** )
 
 ## GIT R DUN
 - Preheat oven to `350º`
@@ -21,9 +21,9 @@ Notes:
 - Combine well
 - Sift together flour, baking soda and salt
   - Add to creamed mixture
-  - *OPTIONAL* Add vanilla
+  - **OPTIONAL** Add vanilla
 - Mix just until combined
-  - *DO NOT OVERMIX!*
+  - **DO NOT OVERMIX!**
 - Pour into greased and floured loaf pan.
 - Bake at `350º` for `55` minutes
 
