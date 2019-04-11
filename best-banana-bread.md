@@ -1,10 +1,10 @@
-# Best Banana Bread
+## Best Banana Bread
 Notes:
 - Total Time: 1hr 5 mins
 - Yield: 1 loaf
 - Serves: 10
 
-## Ingredients!
+### Ingredients
 - `½` cup of butter
 - `1` cup of sugar
 - `2` eggs, beaten
@@ -16,7 +16,7 @@ Notes:
 - `1` cup of chocolate chips   **OPTIONAL** 
   - preferred Nestle Mini Morsels 
 
-## Directions
+### Directions
 - Preheat oven to `350º`
 - Cream together butter and sugar
 - Add eggs and bananas
