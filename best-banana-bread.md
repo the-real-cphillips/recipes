@@ -29,5 +29,3 @@ Notes:
   - **DO NOT OVERMIX!**
 - Pour into greased and floured loaf pan.
 - Bake at `350º` for `55` minutes
-
-Note: Keeps well refrigerated.
