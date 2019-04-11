@@ -15,9 +15,8 @@ Notes:
 - `½` teaspoon of vanilla  **OPTIONAL** 
 - `1` cup of chocolate chips   **OPTIONAL** 
   - preferred Nestle Mini Morsels 
-  - ![mini-morsels](https://i.imgur.com/4QhWlRg.png)
 
-## GIT R DUN
+## Directions
 - Preheat oven to `350º`
 - Cream together butter and sugar
 - Add eggs and bananas
@@ -32,5 +31,3 @@ Notes:
 - Bake at `350º` for `55` minutes
 
 Note: Keeps well refrigerated.
-
-## EAT IT!
