@@ -1,4 +1,4 @@
-## Best Banana Bread
+### Banana Bread
 Notes:
 - Total Time: 1hr 5 mins
 - Yield: 1 loaf
