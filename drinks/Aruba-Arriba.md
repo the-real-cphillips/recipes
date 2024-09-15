@@ -23,11 +23,11 @@ __Fruit Punch Recipe__
 
 _4 Servings_
 
-Vodka: 2 oz
-Rum: 2 oz
-Cointreau/Triple Sec/Grand Marnier: 1 oz
-Creme de Banana: 4 oz
-Orange Juice: 12 oz
-Pineapple Juice: 8 oz
-Lemon Juice: 2 oz
-Grenadine: 1 oz
+* Vodka: 2 oz
+* Rum: 2 oz
+* Cointreau or Triple Sec or Grand Marnier: 1 oz
+* Creme de Banana: 4 oz
+* Orange Juice: 12 oz
+* Pineapple Juice: 8 oz
+* Lemon Juice: 2 oz
+* Grenadine: 1 oz
